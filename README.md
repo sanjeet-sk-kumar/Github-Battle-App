@@ -1,4 +1,4 @@
-This is a "Github Battle" project using which user will be able to see the most popular (Top 30) repositores for various languages (Like All, JavaScript, CSS, Ruby, Java & Python) as well as user can battle between two Github users to see which user is having the better profile.
+This is a "Github Battle" project using which user will be able to see the most popular (Top 30) repositories for various languages (Like All, JavaScript, CSS, Ruby, Java & Python) as well as user can battle between two Github users to see which user is having the better profile.
 
 Here is the link of final project at https://github-users-battle.netlify.app/
 
